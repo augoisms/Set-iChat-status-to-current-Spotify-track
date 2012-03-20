@@ -1,3 +1,5 @@
 Simple AppleScript to set your iChat status to the current track in Spotify.  The script checks every 10 seconds if there has been an update.  If Spotify and/or iChat shuts down, the script will end.  
 
+If you pause or stop Spotify, your iChat status will be set to Available.  This also happens if Spotify is shut down but iChat is still running.
+
 I'm currently using Alfred to run the script, but you can use any number of ways to run it.
