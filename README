@@ -2,4 +2,4 @@ Simple AppleScript to set your iChat status to the current track in Spotify.  Th
 
 If you pause or stop Spotify, your iChat status will be set to Available.  This also happens if Spotify is shut down but iChat is still running.
 
-I'm currently using Alfred to run the script, but you can use any number of ways to run it.
+I'm currently using Alfred to run the script, but you could save the script as a stand alone application or run it from the OS X script menu.
